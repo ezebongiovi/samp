@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPS Reminder</string>
+    <string name="tutorial_page_first">Texto de la primera página del tutorial</string>
+    <string name="button_continue">Continuar</string>
+</resources>

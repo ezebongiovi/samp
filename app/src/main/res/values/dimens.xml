@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_2m" >16dp</dimen>
+    <dimen name="_1m">8dp</dimen>
+    <dimen name="font_size_xl">24sp</dimen>
+    <dimen name="line_spacing_extra_m">4sp</dimen>
+    <dimen name="_3m">24dp</dimen>
+    <dimen name="_5m">40dp</dimen>
+    <dimen name="_4m">32dp</dimen>
+</resources>
